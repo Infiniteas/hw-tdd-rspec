@@ -1,6 +1,5 @@
 # TRAVIS Link
-https://travis-ci.com/Infiniteas/hw-tdd-rspec.svg?branch=master
-
+[![Build Status](https://travis-ci.com/Infiniteas/hw-tdd-rspec.svg?branch=master)](https://travis-ci.com/Infiniteas/hw-tdd-rspec)
 # TDD with RSpec
 
 In this assignment you will use a combination of Acceptance and
