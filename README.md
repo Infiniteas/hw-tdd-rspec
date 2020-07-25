@@ -1,5 +1,5 @@
 # TRAVIS Link
-https://travis-ci.com/Infiniteas/hw-tdd-rspec.svg?branch=master
+https://travis-ci.org/Infiniteas/hw-tdd-rspec.svg?branch=master
 
 # TDD with RSpec
 
